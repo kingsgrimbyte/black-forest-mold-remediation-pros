@@ -18,7 +18,7 @@
         "h3": "Ideal for Basement Moisture Issues",
         "p3": "Leaky basements | Humid environments | Poor ventilation | Water intrusion | Flooding aftermath | Foundation cracks | Moldy odors | Damp walls",
         "seoContent": "<h2>Basement Mold Removal in [location]</h2><p>Our basement mold removal service in [location] focuses on complete mold eradication and prevention strategies. Trust us for a dry, mold-free basement. Call Us At [phone]</p>",
-        "slug": "basement-mold-removal-[location]",
+        "slug": "basement-mold-removal",
         "imageUrl": "https://ik.imagekit.io/z6skgnupx/uploads/2025/05/1747200823574-environment-dumpster-rental_-YuEqLDNU.jpg"
       },
       {
@@ -29,7 +29,7 @@
         "h3": "Critical for Attic Ventilation Issues",
         "p3": "Poor insulation | Inadequate ventilation | Roof leaks | Condensation buildup | Moldy insulation | Stale air | Temperature differentials",
         "seoContent": "<h2>Attic Mold Remediation in [location]</h2><p>Our attic mold remediation service in [location] focuses on thorough mold removal and ventilation improvements. Breathe easier with our professional solutions. Call Us At [phone]</p>",
-        "slug": "attic-mold-remediation-[location]",
+        "slug": "attic-mold-remediation",
         "imageUrl": "https://ik.imagekit.io/z6skgnupx/uploads/2025/05/1747200889642-containers-for-recycle-paper-plastic-and-dumpster_cwt063iLj.jpg"
       },
       {
@@ -40,7 +40,7 @@
         "h3": "Essential for Crawl Space Humidity Problems",
         "p3": "Damp crawl spaces | Moldy insulation | Standing water | Pest infestations | Structural damage | Foul odors | Poor ventilation | Rotting wood",
         "seoContent": "<h2>Crawl Space Mold Removal in [location]</h2><p>Our crawl space mold removal service in [location] targets mold growth and moisture issues to enhance your home's air quality. Experience a clean crawl space with our expert team. Call Us At [phone]</p>",
-        "slug": "crawl-space-mold-removal-[location]",
+        "slug": "crawl-space-mold-removal",
         "imageUrl": "https://ik.imagekit.io/z6skgnupx/uploads/2025/05/1747200903572-waste-recycling-with-container-solid-household_dlOjBDdRf.jpg"
       },
       {
@@ -51,7 +51,7 @@
         "h3": "Critical for Indoor Air Quality",
         "p3": "Shower mold | Tile grout mold | Cabinet mold | Sink mold | Ceiling mold | Ventilation issues | Water damage | Musty odors",
         "seoContent": "<h2>Bathroom & Kitchen Mold Removal in [location]</h2><p>Our mold removal services for bathrooms & kitchens in [location] focus on thorough mold eradication and prevention strategies. Trust us for a healthy living environment. Call Us At [phone]</p>",
-        "slug": "bathroom-kitchen-mold-removal-[location]",
+        "slug": "bathroom-kitchen-mold-removal",
         "imageUrl": "https://ik.imagekit.io/z6skgnupx/uploads/2025/05/1747200916667-three-trash-containers-full-of-garbage-near-the-dumpster_zsh736DC2.jpg"
       },
       {
@@ -62,7 +62,7 @@
         "h3": "Essential for Indoor Allergen Control",
         "p3": "Moldy vents | Dirty ducts | Allergy triggers | HVAC mold spores | Reduced airflow | System inefficiency | Stale indoor air | Respiratory issues",
         "seoContent": "<h2>HVAC & Ventilation Mold Removal in [location]</h2><p>Our mold removal for HVAC & ventilation systems in [location] focuses on eliminating mold growth within your home's air circulation pathways. Breathe cleaner air with our expert services. Call Us At [phone]</p>",
-        "slug": "hvac-ventilation-mold-removal-[location]",
+        "slug": "hvac-ventilation-mold-removal",
         "imageUrl": "https://ik.imagekit.io/z6skgnupx/uploads/2025/05/1747200955013-sorting-the-garbage-waste-the-three-color-trash_GU1tGcvgW.jpg"
       },
       {
@@ -73,7 +73,7 @@
         "h3": "Critical for Post-Flood Cleanup",
         "p3": "Basement flooding | Roof leaks | Sewage backups | Pipe bursts | Natural disasters | Water infiltration | Standing water | Structural drying",
         "seoContent": "<h2>Storm Water Removal in [location]</h2><p>Our emergency storm water removal services in [location] help prevent mold growth and structural damage after water intrusion events. Trust us for rapid response and effective water extraction. Call Us At [phone]</p>",
-        "slug": "storm-water-removal-[location]",
+        "slug": "storm-water-removal",
         "imageUrl": "https://ik.imagekit.io/z6skgnupx/uploads/2025/05/1747200976675-full-bill-over-flowing-over-flowing-dumpsters_m1QD78qZ7.jpg"
       },
       {
@@ -84,7 +84,7 @@
         "h3": "Essential for Rapid Response Cleanup",
         "p3": "Washing machine leaks | Dishwasher overflows | Refrigerator malfunctions | Water heater bursts | Plumbing mishaps | Mold growth prevention | Property restoration | Water extraction",
         "seoContent": "<h2>Appliance Overflow Removal in [location]</h2><p>Our appliance overflow cleanup services in [location] are designed to address water damage promptly, reducing mold risks and restoring your property to its pre-damage condition. Call Us At [phone]</p>",
-        "slug": "appliance-overflow-removal-[location]",
+        "slug": "appliance-overflow-removal",
         "imageUrl": "https://ik.imagekit.io/z6skgnupx/uploads/2025/05/1747200903572-waste-recycling-with-container-solid-household_dlOjBDdRf.jpg"
       },
       {
@@ -95,30 +95,8 @@
         "h3": "Critical for Water Damage Mitigation",
         "p3": "Pipe bursts | Ceiling leaks | Wall seepage | Floor flooding | Mold prevention | Structural drying | Property restoration | Emergency cleanup",
         "seoContent": "<h2>Burst Pipe Water Removal in [location]</h2><p>Our emergency burst pipe water removal services in [location] provide swift action to prevent water damage, mold growth, and structural issues. Count on us for reliable water extraction and restoration. Call Us At [phone]</p>",
-        "slug": "burst-pipe-water-removal-[location]",
+        "slug": "burst-pipe-water-removal",
         "imageUrl": "https://ik.imagekit.io/z6skgnupx/uploads/2025/05/1747200916667-three-trash-containers-full-of-garbage-near-the-dumpster_zsh736DC2.jpg"
-      },
-      {
-        "title": "Storm Water Removal in [location]",
-        "description": "Call Us At [phone]. Emergency storm water removal services in [location] to reduce water damage risks and stop mold growth before it starts.",
-        "h2": "Fast Storm Water Cleanup That Saves Your Property",
-        "p2": "Our storm water removal services in [location] are designed for urgent cleanup after storms, flooding, or drainage failures. We act fast to extract water, dry the area, and prevent dangerous mold and structural damage. Call Us At [phone]",
-        "h3": "Essential After Heavy Rains or Natural Disasters",
-        "p3": "Storm flooding | Basement water damage | Yard overflow | Blocked drains | Foundation water seepage | Emergency drainage | Mold prevention | Moisture control",
-        "seoContent": "<h2>Storm Water Removal in [location]</h2><p>Our emergency storm water removal services in [location] are built for speed and effectiveness. We handle storm damage cleanup fast to prevent mold and long-term property issues. Call Us At [phone]</p>",
-        "slug": "storm-water-removal-[location]",
-        "imageUrl": "https://ik.imagekit.io/z6skgnupx/uploads/2025/05/1747200976675-full-bill-over-flowing-over-flowing-dumpsters_m1QD78qZ7.jpg"
-      },
-      {
-        "title": "Roof Leak Water Removal in [location]",
-        "description": "Call Us At [phone]. Professional roof leak water removal in [location] to stop ceiling damage, mold growth, and structural decay.",
-        "h2": "Protect Your Home From Hidden Roof Leaks",
-        "p2": "Our roof leak water removal services in [location] identify hidden leak points, remove trapped water, and dry out affected spaces fast. Prevent further ceiling collapse, mold infestations, and long-term roof issues. Call Us At [phone]",
-        "h3": "Ideal for Leak Emergencies After Rain",
-        "p3": "Ceiling stains | Dripping water | Attic water damage | Insulation saturation | Mold around light fixtures | Sagging drywall | Persistent roof leaks | Rain-related damage",
-        "seoContent": "<h2>Roof Leak Water Removal in [location]</h2><p>Our roof leak water removal service in [location] quickly tackles leaks from rain or storms, preventing mold, wood rot, and insulation damage. Act now to protect your home. Call Us At [phone]</p>",
-        "slug": "roof-leak-water-removal-[location]",
-        "imageUrl": "https://ik.imagekit.io/z6skgnupx/uploads/2025/05/1747200889642-containers-for-recycle-paper-plastic-and-dumpster_cwt063iLj.jpg"
       }
     ]
   }
